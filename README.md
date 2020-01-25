@@ -15,3 +15,5 @@
 ### Usage:
  * Make a telegram bot and get the API token, and paste it inside `config.cfg`
  * ```$ python server.py```
+
+## Want to know more hit this [link](https://core.telegram.org/bots/api)
